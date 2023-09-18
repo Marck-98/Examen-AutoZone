@@ -306,9 +306,9 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 248, 435)" id="gfx-1046ee90-6a2d-4303-860c-314fed11a0ff" display="block" class="djs-element djs-shape" data-element-id="1046ee90-6a2d-4303-860c-314fed11a0ff">
+    <g transform="matrix(1, 0, 0, 1, 248, 435)" id="gfx-9e427dfe-a1e5-412a-8ab7-1bb4fdda3f1e" display="block" class="djs-element djs-shape" data-element-id="9e427dfe-a1e5-412a-8ab7-1bb4fdda3f1e">
       <g class="djs-visual">
-        <rect x="0" y="0" width="90" height="40" fill-opacity="0" stroke-opacity="0" style="fill:transparent;stroke:transparent;" />
+        <rect x="0" y="0" width="90" height="40" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="35" class="djs-svg-text">
           <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
             <tspan x="17.02921" y="14.75">Seleccionar </tspan>
@@ -334,9 +334,9 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1104, 340)" id="gfx-3d79d5e2-c59c-489e-a40d-7325a5cc3366" display="block" class="djs-element djs-shape" data-element-id="3d79d5e2-c59c-489e-a40d-7325a5cc3366">
+    <g transform="matrix(1, 0, 0, 1, 1104, 340)" id="gfx-7086c5dd-708a-4e60-b60c-8cad2e3dae54" display="block" class="djs-element djs-shape" data-element-id="7086c5dd-708a-4e60-b60c-8cad2e3dae54">
       <g class="djs-visual">
-        <rect x="0" y="0" width="134" height="40" fill-opacity="0" stroke-opacity="0" style="fill:transparent;stroke:transparent;" />
+        <rect x="0" y="0" width="134" height="40" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="134" height="35" class="djs-svg-text">
           <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
             <tspan x="27.43172" y="14.75">Método de pago</tspan>
@@ -358,9 +358,9 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 138, 420)" id="gfx-ffa58ea2-0efb-415c-9e15-540e6ddf499d" display="block" class="djs-element djs-shape" data-element-id="ffa58ea2-0efb-415c-9e15-540e6ddf499d">
+    <g transform="matrix(1, 0, 0, 1, 138, 420)" id="gfx-e9b4f3be-3766-4fdc-8d79-4733915b9536" display="block" class="djs-element djs-shape" data-element-id="e9b4f3be-3766-4fdc-8d79-4733915b9536">
       <g class="djs-visual">
-        <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:transparent;stroke:transparent;" />
+        <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
           <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
             <tspan x="31.29463" y="14.75">Inicio.</tspan>
@@ -382,9 +382,9 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1921, 420)" id="gfx-9c77003c-d231-472f-bf4c-61df4f74fa3f" display="block" class="djs-element djs-shape" data-element-id="9c77003c-d231-472f-bf4c-61df4f74fa3f">
+    <g transform="matrix(1, 0, 0, 1, 1921, 420)" id="gfx-dec96725-51d0-44a3-9b63-553501966a10" display="block" class="djs-element djs-shape" data-element-id="dec96725-51d0-44a3-9b63-553501966a10">
       <g class="djs-visual">
-        <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:transparent;stroke:transparent;" />
+        <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
           <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
             <tspan x="36.96501" y="14.75">Fin.</tspan>
